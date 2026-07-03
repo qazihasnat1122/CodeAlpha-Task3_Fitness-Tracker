@@ -47,8 +47,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAb11SDyjTjALcuOuJUNGptbHkJQnbIkIs',
-    appId: '1:455173471672:web:554d0cdd499d8c3e82234d',
+    apiKey: 'your api',
+    appId: 'your id',
     messagingSenderId: '455173471672',
     projectId: 'fitness-tracker-3bae7',
     authDomain: 'fitness-tracker-3bae7.firebaseapp.com',
@@ -57,16 +57,16 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCVAYkohKqWyiDQR9RxvD-ThZlIjFKXhtw',
-    appId: '1:455173471672:android:e9aed3d19df2bf1982234d',
+    apiKey: 'your api',
+    appId: 'your id',
     messagingSenderId: '455173471672',
     projectId: 'fitness-tracker-3bae7',
     storageBucket: 'fitness-tracker-3bae7.firebasestorage.app',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyAb11SDyjTjALcuOuJUNGptbHkJQnbIkIs',
-    appId: '1:455173471672:web:9c177b2b255661c682234d',
+    apiKey: 'your api',
+    appId: 'your id',
     messagingSenderId: '455173471672',
     projectId: 'fitness-tracker-3bae7',
     authDomain: 'fitness-tracker-3bae7.firebaseapp.com',
